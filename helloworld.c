@@ -2,6 +2,7 @@
 
 int main(void)
 {
-  ("Hello world\n");
+  ("hello world\n");
   return 0;
 }
+
